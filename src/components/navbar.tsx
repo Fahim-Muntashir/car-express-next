@@ -1,11 +1,11 @@
 import React from 'react';
 
-const CarsPage = () => {
+const navbar = () => {
     return (
         <div>
-            asdfasdf
+
         </div>
     );
 };
 
-export default CarsPage;
+export default navbar;
